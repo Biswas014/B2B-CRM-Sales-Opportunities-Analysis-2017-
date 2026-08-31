@@ -53,15 +53,15 @@ The analysis aims to answer the following questions:
 
 ## Project Workflow
 1. Data Import & Database Setup 
-Created a CRM database in postgresql, the required tables, and imported the raw csv files 
+(Created a CRM database in postgresql, the required tables, and imported the raw csv files) 
 
 2 Data Exploration & Quality Checks  
-Examined table structures, duplicate entries, and missing records. 
+(Examined table structures, duplicate entries, and missing records)
 
 3.Data Analysis 
-Analyzed sales opportunities, deal stages, sales cycle length, revenue, win rates, sales agents, products, accounts, and regional performance.
+(Analyzed sales opportunities, deal stages, sales cycle length, revenue, win rates, sales agents, products, accounts, and regional performance)
 
 ## The Project Schema
-![CRM Sales Schema](B2B-CRM-Sales-Opportunities-Analysis-2017-/Schema Structure/CRM_Sales_Schema.JPG)
+![CRM Sales Schema](https://github.com/Biswas014/B2B-CRM-Sales-Opportunities-Analysis-2017-/blob/main/Schema%20Structure/CRM_Sales_Schema.JPG)
 
 
